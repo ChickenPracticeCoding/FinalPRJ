@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\",
+  "WorkspaceRootPath": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|e:\\hoctap\\prj_github\\cg_project\\finalprj\\snakeasianadventure3d\\assets\\scipts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|e:\\hoctap\\prj_github\\cg_project\\finalprj\\snakeasianadventure3d\\assets\\scipts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|e:\\hoctap\\prj_github\\cg_project\\snakeprj\\finalprj\\snakeasianadventure3d\\assets\\scipts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,49 +42,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UIController.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UIController.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\UIController.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UIController.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UIController.cs",
               "RelativeToolTip": "Assets\\Scipts\\UIController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:01:44.299Z",
+              "WhenOpened": "2024-12-22T19:01:44.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\AudioManager.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scipts\\AudioManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwEUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:05:50.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeController.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\SnakeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\SnakeController.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\SnakeController.cs",
+              "RelativeToolTip": "Assets\\Scipts\\SnakeController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:35:22.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scipts\\AudioManager.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scipts\\AudioManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwEUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:05:50.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SnakeController.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\SnakeController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scipts\\SnakeController.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\SnakeController.cs",
-              "RelativeToolTip": "Assets\\Scipts\\SnakeController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAIwEoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:35:22.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "LevelMenu.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\LevelMenu.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\LevelMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\LevelMenu.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\LevelMenu.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\LevelMenu.cs",
               "RelativeToolTip": "Assets\\Scipts\\LevelMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PauseMenu.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\PauseMenu.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\PauseMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\PauseMenu.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\PauseMenu.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\PauseMenu.cs",
               "RelativeToolTip": "Assets\\Scipts\\PauseMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Sound.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\Sound.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\Sound.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\Sound.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\Sound.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\Sound.cs",
               "RelativeToolTip": "Assets\\Scipts\\Sound.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
