@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|e:\\hoctap\\prj_github\\cg_project\\snakeprj\\finalprj\\snakeasianadventure3d\\assets\\scipts\\system manage\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\system manage\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\player controller\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\player controller\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|e:\\hoctap\\prj_github\\cg_project\\snakeprj\\finalprj\\snakeasianadventure3d\\assets\\scipts\\ui manager\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\ui manager\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\player controller\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\player controller\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\ui manager\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\ui manager\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\ui manage\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\ui manage\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\ui manager\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\ui manager\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\ui manage\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\ui manage\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\assets\\scipts\\system manager\\sound system\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF201051-B587-DCF7-17CA-5F8D8A893173}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\system manager\\sound system\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LevelMenu.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\System Manage\\LevelMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scipts\\System Manage\\LevelMenu.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\System Manage\\LevelMenu.cs",
-              "RelativeToolTip": "Assets\\Scipts\\System Manage\\LevelMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\System Manager\\Sound System\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\System Manager\\Sound System\\AudioManager.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\System Manager\\Sound System\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scipts\\System Manager\\Sound System\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T16:18:17.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T14:20:25.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelMenu.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manager\\LevelMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\UI Manager\\LevelMenu.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manager\\LevelMenu.cs",
+              "RelativeToolTip": "Assets\\Scipts\\UI Manager\\LevelMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:43:03.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manager\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\UI Manager\\UIController.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manager\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scipts\\UI Manager\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:22:46.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manager\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\UI Manager\\PauseMenu.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manager\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scipts\\UI Manager\\PauseMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:22:28.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EventSystem.cs",
               "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
@@ -59,44 +99,20 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
               "ViewState": "AQIAAAYCAAAAAAAAAAAvwB4CAACrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:30:56.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T14:30:56.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PauseMenu.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manage\\PauseMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scipts\\UI Manage\\PauseMenu.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manage\\PauseMenu.cs",
-              "RelativeToolTip": "Assets\\Scipts\\UI Manage\\PauseMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:04:15.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UIController.cs",
-              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manage\\UIController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scipts\\UI Manage\\UIController.cs",
-              "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\UI Manage\\UIController.cs",
-              "RelativeToolTip": "Assets\\Scipts\\UI Manage\\UIController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:04:06.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SnakeController.cs",
               "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\Player Controller\\SnakeController.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\Player Controller\\SnakeController.cs",
               "ToolTip": "E:\\Hoctap\\Prj_Github\\CG_project\\SnakePRJ\\FinalPRJ\\SnakeAsianAdventure3D\\Assets\\Scipts\\Player Controller\\SnakeController.cs",
               "RelativeToolTip": "Assets\\Scipts\\Player Controller\\SnakeController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAAGUAAAAmAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwFIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T13:48:58.844Z"
+              "WhenOpened": "2024-12-26T13:48:58.844Z",
+              "EditorCaption": ""
             }
           ]
         }
